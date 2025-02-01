@@ -46,7 +46,7 @@ const Encryption = () => {
       </div>
       <div className="absolute z-[20] bottom-[10px] px-[5px]">
         <div className="cursive text-[20px] font-medium text-center text-gray-300">
-          Roses are Red, Violets are Blue, There's an error on line 32 
+          Roses are Red Violets are Blue There is an error on line 32 
         </div>
       </div>
 
